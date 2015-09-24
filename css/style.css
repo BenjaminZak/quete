@@ -1,0 +1,40 @@
+header.carousel {
+	height: 75%;
+	margin-right: 60px;
+	margin-left: 60px;
+	margin-top: 60px;
+}
+.navbar-nav {
+	 margin-right: 375px;
+}
+body {
+
+	background-image: url(../img/background/back6.jpg);
+	background-size: cover;
+}
+.bordermenu {
+	border: 3px solid #000000;
+}
+
+.menu {
+	background: rgba(255, 255, 255, 0.5) none repeat scroll 0% 0%; 
+	width: 100%; 
+	bottom: 0px; 
+	position: absolute; 
+	line-height: 45px; 
+	font-size: 24px;
+}
+
+.section {
+	position: relative;
+	color:black;
+	text-align: center;
+}
+
+.section:hover{
+	opacity: 0.8;
+	color:#004242;
+}
+.map {
+	margin: 0% 0% 0% 65%;
+}
